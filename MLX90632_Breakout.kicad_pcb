@@ -1848,7 +1848,7 @@
 		(path "/45e3fd16-c71b-4c8c-8f7e-25706eb802e7")
 		(sheetname "/")
 		(sheetfile "MLX90632_Breakout.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.5 -1.5)
 			(end -1.5 3.5)
@@ -2043,7 +2043,7 @@
 		(path "/9cfeb662-b3b2-4c4d-877a-369c332d22cc")
 		(sheetname "/")
 		(sheetfile "MLX90632_Breakout.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.5 -1.5)
 			(end -1.5 9.5)
@@ -2271,7 +2271,7 @@
 		(path "/518894c4-5666-423f-a2fa-7ccca5aca79c")
 		(sheetname "/")
 		(sheetfile "MLX90632_Breakout.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.5 -1.5)
 			(end -1.5 3.5)
